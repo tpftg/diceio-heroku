@@ -14,7 +14,7 @@ Clone this repository :
 
 ```shell
 $ git clone https://github.com/tpftg/diceio-heroku.git
-cd diceio-heroku
+$ cd diceio-heroku
 ```
 
 Add `my-app-name` Heroku remote branch :
@@ -29,7 +29,7 @@ Deploy your application :
 $ git push heroku master
 ```
 
-When deployment ends demo application should be available, for example, at `https://my-app-name.herokuapp.com`.
+When deployment ends, the demo application should be available, for example, at `https://my-app-name.herokuapp.com` url.
 
 It is recommended to enable session affinity :
 
