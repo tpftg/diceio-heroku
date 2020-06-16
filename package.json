@@ -1,0 +1,12 @@
+{
+  "name": "diceio-heroku",
+  "version": "1.0.0",
+  "description": "dice.io Heroku application",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "dice.io": "^0.3.0"
+  }
+}
