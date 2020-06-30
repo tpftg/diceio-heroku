@@ -1,6 +1,6 @@
 # Dice.io Heroku application
 
-A simple example to deploy you own dice.io server on Heroku.
+A simple example to deploy you own dice.io server on [Heroku](https://www.heroku.com/home).
 
 ## Getting started
 
