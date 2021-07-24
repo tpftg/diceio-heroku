@@ -7,6 +7,6 @@
     "node": "14.x"
   },
   "dependencies": {
-    "dice.io": "^0.4.1"
+    "dice.io": "^0.5.1"
   }
 }
